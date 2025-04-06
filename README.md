@@ -6,7 +6,7 @@ A dataset that contains 618 figure skating videos from 19 Figure Skating Competi
 
 ## 📂 **Dataset Structure**
 
-SkaterDataset structure as below:
+The structure of the SkaterDataset is as follows:
 
 ```
 SkaterDataset/
